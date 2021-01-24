@@ -1,6 +1,6 @@
 {
   "name": "create-front-end-cli",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "main": "./bin/index.js",
   "bin": {
     "front-end-cli": "./bin/index.js"
