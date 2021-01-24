@@ -1,6 +1,6 @@
 {
   "name": "create-front-end-cli",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "main": "./bin/index.js",
   "bin": {
     "front-end-cli": "./bin/index.js"
@@ -13,7 +13,10 @@
     "url": "git@github.com:zhanglei518/create-front-end-cli.git"
   },
   "keywords": [
-    "js", "front-end", "cli", "front-end-cli"
+    "js",
+    "front-end",
+    "cli",
+    "front-end-cli"
   ],
   "author": "",
   "license": "ISC",
