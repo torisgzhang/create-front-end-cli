@@ -12,7 +12,9 @@
     "type": "git",
     "url": "git@github.com:zhanglei518/create-front-end-cli.git"
   },
-  "keywords": [],
+  "keywords": [
+    "js", "front-end", "cli", "front-end-cli"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
