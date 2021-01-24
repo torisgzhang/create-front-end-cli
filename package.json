@@ -1,12 +1,16 @@
 {
   "name": "create-front-end-cli",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "./bin/index.js",
   "bin": {
     "front-end-cli": "./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zhanglei518/create-front-end-cli.git"
   },
   "keywords": [],
   "author": "",
