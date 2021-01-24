@@ -20,7 +20,7 @@
   ],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^4.1.0",
     "co": "^4.6.0",
     "commander": "^7.0.0",
@@ -33,6 +33,5 @@
     "thunkify": "^2.1.2",
     "update-notifier": "^5.0.1"
   },
-  "dependencies": {},
   "description": ""
 }
